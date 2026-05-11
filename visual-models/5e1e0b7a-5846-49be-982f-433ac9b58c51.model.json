@@ -1,0 +1,434 @@
+{
+  "identifier": "e1fadc60-1692-4465-8b20-2c7ff203ec39",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "e1fadc60-1692-4465-8b20-2c7ff203ec39-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Agent",
+      "position": {
+        "x": 440,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "df7n2"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/AgentClass",
+      "position": {
+        "x": 740,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "9fm1f"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/BibliographicResource",
+      "position": {
+        "x": 1050,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "7wqat"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/FileFormat",
+      "position": {
+        "x": 540,
+        "y": 1200,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "2xbi9"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Frequency",
+      "position": {
+        "x": 1350,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "nx1stl"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Jurisdiction",
+      "position": {
+        "x": 2500,
+        "y": 650,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "2y6ir"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/LicenseDocument",
+      "position": {
+        "x": 0,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "16a2e"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/LinguisticSystem",
+      "position": {
+        "x": 1650,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "a4y3c"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Location",
+      "position": {
+        "x": 1610,
+        "y": 880,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "theqii"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/LocationPeriodOrJurisdiction",
+      "position": {
+        "x": 1980,
+        "y": 510,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "4f2ot"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FLocation&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FLocationPeriodOrJurisdiction",
+      "waypoints": [],
+      "visualSource": "theqii",
+      "visualTarget": "4f2ot",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "kv0ud"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FJurisdiction&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FLocationPeriodOrJurisdiction",
+      "waypoints": [],
+      "visualSource": "2y6ir",
+      "visualTarget": "4f2ot",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "g1ijjh"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/MediaType",
+      "position": {
+        "x": 500,
+        "y": 660,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "61dj1"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FFileFormat&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FMediaType",
+      "waypoints": [],
+      "visualSource": "2xbi9",
+      "visualTarget": "61dj1",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "9eqv7"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/MediaTypeOrExtent",
+      "position": {
+        "x": 930,
+        "y": 340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "36psi"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FMediaType&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FMediaTypeOrExtent",
+      "waypoints": [],
+      "visualSource": "61dj1",
+      "visualTarget": "36psi",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "xeaes"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/MethodOfAccrual",
+      "position": {
+        "x": 1960,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "qjd8v"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/MethodOfInstruction",
+      "position": {
+        "x": 2260,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "6xzsh"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/PeriodOfTime",
+      "position": {
+        "x": 1850,
+        "y": 0,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "ipnsc"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FPeriodOfTime&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FLocationPeriodOrJurisdiction",
+      "waypoints": [],
+      "visualSource": "ipnsc",
+      "visualTarget": "4f2ot",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "bva9z"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/PhysicalMedium",
+      "position": {
+        "x": 0,
+        "y": 480,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "k1qz8"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FPhysicalMedium&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FMediaType",
+      "waypoints": [],
+      "visualSource": "k1qz8",
+      "visualTarget": "61dj1",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "s2n9"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/PhysicalResource",
+      "position": {
+        "x": 2570,
+        "y": 1340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "jetmx"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Policy",
+      "position": {
+        "x": 0,
+        "y": 1960,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "ja6g5f"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/ProvenanceStatement",
+      "position": {
+        "x": 300,
+        "y": 1960,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "r5fz9"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/RightsStatement",
+      "position": {
+        "x": 130,
+        "y": 1820,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "r7ifg"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FLicenseDocument&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FRightsStatement",
+      "waypoints": [],
+      "visualSource": "16a2e",
+      "visualTarget": "r7ifg",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "43kqv"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/SizeOrDuration",
+      "position": {
+        "x": 1300,
+        "y": 0,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "rdaa7"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FSizeOrDuration&toIri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2FMediaTypeOrExtent",
+      "waypoints": [],
+      "visualSource": "rdaa7",
+      "visualTarget": "36psi",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "dzdy6"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/c0983293-d5d2-4319-a6d5-f0de584b42ad/7d75abd2-7d45-4eea-9a27-ccdbfc7b3b77",
+      "representedEntity": "http://purl.org/dc/terms/Standard",
+      "position": {
+        "x": 600,
+        "y": 1960,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "rrvxn"
+    }
+  ]
+}
